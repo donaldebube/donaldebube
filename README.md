@@ -1,4 +1,4 @@
-**👋 Hi, I’m @donaldebube**
+**👋 Hi, I’m Donald Ebube.**
 
 **I am a Data Analyst, passionate about technology and analyzing data in order to provide necessary insights. Currently, I am working hard to learn more concepts on how to analyze data appropriately **
 
